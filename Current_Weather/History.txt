@@ -1,0 +1,28 @@
+-------------------------------------------------------------
+Weather Stats for - MELBOURN  || 23 Jun 2021 | 02:04:40 AM
+Current temperature is: 12.06 deg C
+Current weather desc  :broken clouds
+Current Humidity      :73%
+Current wind speed    :2.95kmph
+Atmospheric pressure  :1024hPa
+-------------------------------------------------------------
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 23 Jun 2021 | 02:01:50 AM
+Current temperature is: 32.05 deg C
+Current weather desc  :haze
+Current Humidity      :48%
+Current wind speed    :0kmph
+Atmospheric pressure  :1002hPa
+-------------------------------------------------------------
+-------------------------------------------------------------
+23 Jun 2021 | 02:01:30 AM
+city not found
+-------------------------------------------------------------
+-------------------------------------------------------------
+Weather Stats for - LONDON  || 23 Jun 2021 | 02:01:23 AM
+Current temperature is: 13.93 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :63%
+Current wind speed    :0.45kmph
+Atmospheric pressure  :1023hPa
+-------------------------------------------------------------
